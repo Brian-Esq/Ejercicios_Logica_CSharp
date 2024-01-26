@@ -12,3 +12,4 @@ D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\refint\ejercicios
 D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.pdb
 D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.genruntimeconfig.cache
 D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ref\ejercicios.dll
+D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.sourcelink.json
