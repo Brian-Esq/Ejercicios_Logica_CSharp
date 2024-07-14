@@ -13,3 +13,8 @@ D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.pdb
 D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.genruntimeconfig.cache
 D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ref\ejercicios.dll
 D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.sourcelink.json
+D:\brian\Programacion\C#\MauDev_EX\ejercicios\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\brian\Programacion\C#\MauDev_EX\ejercicios\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\brian\Programacion\C#\MauDev_EX\ejercicios\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.csproj.AssemblyReference.cache
+D:\brian\Programacion\C#\MauDev_EX\ejercicios\obj\Debug\net8.0\ejercicios.csproj.Up2Date
