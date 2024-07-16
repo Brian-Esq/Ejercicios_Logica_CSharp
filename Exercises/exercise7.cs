@@ -6,18 +6,18 @@
 
 // AQUÍ EMPIEZA =>
 
-Console.WriteLine(InvertirPalabra(Console.ReadLine()));
+// Console.WriteLine(InvertirPalabra(Console.ReadLine()));
 
-string InvertirPalabra(string palabra1)
-{
-    char[] palabra2 = new char[palabra1.Length];
+// string InvertirPalabra(string palabra1)
+// {
+//     char[] palabra2 = new char[palabra1.Length];
 
-    if (palabra1 != null)
-    {
-        var i = palabra1.Length;
-        for(int j=0;j<i;j++){
-            palabra2[j] = palabra1[i-j-1];
-        }
-    }
-    return new string(palabra2);
-}
+//     if (palabra1 != null)
+//     {
+//         var i = palabra1.Length;
+//         for(int j=0;j<i;j++){
+//             palabra2[j] = palabra1[i-j-1];
+//         }
+//     }
+//     return new string(palabra2);
+// }
